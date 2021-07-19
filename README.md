@@ -12,11 +12,15 @@ The amount of time between each reminder can be changed, you could send everyone
 
 ## Examples:
 
-TODO
+![Adding an event to the bot by using "%createevent"](https://user-images.githubusercontent.com/61094301/126234900-56c2d86d-9ced-46be-8c00-a70b85c7d92c.png)
 
-## How to use:
+![Requesting to see a list of all the available events by using "%eventlist"](https://user-images.githubusercontent.com/61094301/126234930-ab188bad-7481-438b-b051-93388643dc38.png)
 
+![Example of Harass-bot's reminders](https://user-images.githubusercontent.com/61094301/126234977-402fe565-0d5a-48fb-88ee-641e0e546d62.png)
+
+# How to use:
 Use this link to invite this bot to your server: https://discord.com/api/oauth2/authorize?client_id=862079199560728606&permissions=2148001856&scope=bot
+
 Type "%help" in any channel and the bot will show how to use all of its commands.
 
 ## External Packages used:
